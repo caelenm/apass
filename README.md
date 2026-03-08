@@ -35,6 +35,7 @@ Run the program from a terminal:
 ./apass
 
 On first run:
+- enable execute permissions: $ chmod +x apass
 - It creates a new vault
 - It asks you to set a master password
 
